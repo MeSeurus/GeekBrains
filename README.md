@@ -1,2 +1,0 @@
-# GeekBrains
-For educational projects
