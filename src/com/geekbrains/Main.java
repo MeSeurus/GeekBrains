@@ -1,11 +1,12 @@
 package com.geekbrains;
 
 /**
- * 1. Создать программу, которая переворачивает вводимые строки (читает справа налево).
- * 2. Создать класс для реализации дека.
- * 3*. Реализовать автоматическое увеличение размера массива в стеке
+ * 1. Реализовать MyLinkedStack используя класс MyLinkedList
  */
 
 public class Main {
-    public static void main(String[] args) {}
+
+    public static void main(String[] args) {
+	// write your code here
+    }
 }
